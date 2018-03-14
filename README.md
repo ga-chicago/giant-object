@@ -71,11 +71,10 @@ var crazyObject = {
 
 
 ## Create an object
-1.  create and object using dot notation with five properties and one method that prints something to the screen.
-2.  Create an object using bracket notation with five properties and one method that prints something to the screen.
+1.  create and object using dot notation with five properties
+2.  Create an object using bracket notation with five properties 
 
 
-## Call the methods that you created in your object.
 
 
 
